@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-###  🔭 I’m currently pursing Btech 4th year 
-###  💬 My Skills : Python, Java, C, C++,MySQl
+###  🔭 I’m currently pursing MSc Advanced Computer Science 
+###  💬 My Skills : Python, Java, C, C++, C#, PL/SQL, Oracle SQL, MySQl
 ###  📫 mail : udaykiranbhashamalla@gmail.com
 ### 📫 Phone : 7993147172
 
@@ -12,8 +12,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently pursing Btech 4th year 
-- 💬 My Skills : Python, Java, C, C++,MySQl
+- 🔭 I’m currently pursing MSc Advanced Computer Science 
+- 💬 My Skills :  Python, Java, C, C++, C#, PL/SQL, Oracle SQL, MySQl
 - 📫 mail : udaykiranbhashamalla@gmail.com
 - 📫 Phone : 7993147172
 -->
